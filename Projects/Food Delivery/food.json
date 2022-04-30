@@ -1,0 +1,23 @@
+{
+    "0": {
+        "Food Name": "Kulche",
+        "Quantity": 2,
+        "Price": 30,
+        "Discount": 2,
+        "Stock": 300
+    },
+    "2": {
+        "Food Name": "Cold drink",
+        "Quantity": 2,
+        "Price": 30,
+        "Discount": 2,
+        "Stock": 500
+    },
+    "3": {
+        "Food Name": "Cake",
+        "Quantity": 2,
+        "Price": 30,
+        "Discount": 2,
+        "Stock": 500
+    }
+}
