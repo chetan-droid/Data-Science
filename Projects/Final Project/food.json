@@ -1,0 +1,16 @@
+{
+    "1": {
+        "Food_Name": "CocaCola",
+        "Quantity": "2",
+        "Price": 30.0,
+        "Discount": 2.0,
+        "Stock": 300
+    },
+    "2": {
+        "Food_Name": "Cake",
+        "Quantity": "1",
+        "Price": 15.0,
+        "Discount": 0.0,
+        "Stock": 200
+    }
+}
